@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
-const API_KEY = '20ca77e43d142d5df5bbeb8edd1c53bc';
+const API_KEY = '';
 
 const cities = [
     { name: 'New York', lat: 40.7128, lon: -74.0060 },
